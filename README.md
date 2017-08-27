@@ -1,2 +1,1 @@
-# Phd-defense-slide
-about calibration methods..
+# brain teasing math 
